@@ -1,0 +1,56 @@
+Vrinda Store Sales Analysis
+•	Analyzed retail sales data to derive insights on customer behavior and product performance
+•	Designed interactive Power BI dashboards using calculated columns, DAX, and measures
+Supported business recommendations with data AREEBA SARWAR
+Email: areebasarwar58@gmail.com
+
+
+
+ABOUT
+
+I am Computer Systems Engineer with a strong foundation in data analytics, business intelligence, and cloud tools like Azure. I have led multiple data-focused projects involving data collection, cleaning, visualization, and dashboard creation using tools such as Power BI, Looker Studio, Excel, and Python. My experience includes delivering actionable insights through interactive dashboards and reports, as well as presenting data stories to stakeholders. I am passionate about turning raw data into strategic decisions and making meaningful contributions to business operations.
+
+EDUCATION
+•	University of Engineering and Technology (Nov 2021 – June 2025)
+BSc. Computer Systems Engineering
+•	Peace Group of Schools and College ATD (2019 – 2021)
+Intermediate in Computer Science
+•	Peace Group of Schools and College (2017 – 2019)
+Matriculation
+EXPERIENCE
+Navttc Power BI Training(July 2024- Sep2024)
+•	Gained hands-on experience in data cleaning, modeling, DAX, and dashboard creation using Power BI
+•	Built interactive dashboards and reports using real-world datasets
+•	Transformed business problems into data-driven insights to support strategic decisions
+ K2x-Tech Internship( July2023- Sep2023)
+•	Assisted in enhancing UI components and supported data-focused web features using HTML, CSS, and JavaScript
+PROJECTS
+•	trends and visual summarie
+Marketing Campaign Analytics
+•	Conducted performance analysis of marketing campaigns using Power BI
+•	Developed reports tracking conversions, impressions, and engagement metrics
+•	Presented monthly executive reports with strategic recommendations
+Website Traffic Report – Looker Studio
+•	Integrated Google Analytics data into Looker Studio for real-time web traffic dashboards
+•	Visualized user behavior, bounce rate, and session sources to assist SEO and UX teams
+•	Shared automated weekly summaries with stakeholders
+Shadow Removal from Satellite Imagery using GANs
+•	Though AI-focused, project involved data preprocessing, transformation, and evaluation of large image datasets
+•	Documented insights and methodology for academic presentation and reporting.
+SKILLS
+•	Data Analytics & BI Tools: Power BI, Looker Studio, Excel, Google Sheets, DAX, SQL, Azure
+•	Programming: Python, SQL, Pandas, NumPy, Matplotlib
+•	Visualization & Reporting: Dashboards, KPIs, Report Summaries, DAX Measures
+•	Soft Skills: Data Storytelling, Communication, Problem Solving, Project Leadership
+•	Tools: Jupyter Notebook, Google Colab, GitHub, VS Code
+CERTIFICATIONS
+•	NAVTTC Power BI Course | Data Analysis & Visualization (Jul 2024 - Sep 2024)
+•	NAVTTC AI/ML/DL Course (Mar 2025 - Jun 2025)
+•	Meta Front-End Developer Professional Certificate (Coursera, 2023)
+
+LEADERSHIP & EXTRACURRICULAR
+•	Hosted Power BI Virtual Session: Delivered a comprehensive webinar session covering data cleaning, modeling, and visualization for aspiring analysts.
+•	Executive Member, Computer Society: Have been the part of computer society, Tech community in University.
+•	Organizer, Convocation 2023 & Tech Events: Organized convocation and other tech events, Ignite Tech event 2024.
+•	Organizer, ICCIIOT 2024 & ICTIS 2025: Organizer of International conferences at UET Peshawar like ICCIIOT & ICTIS.
+
